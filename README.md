@@ -166,9 +166,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## **Contact**
 For inquiries, reach out to:
-- **Name**: Mohammad Sufiyan
-- **Email**: [mohammadsufiyansheikh@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/sufiyan-sheikh-0088a724a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)
+- **Name**: Sujal Pal
+- **Email**: [palsujal707@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/sujal-pal](#)
 
 ---
 
